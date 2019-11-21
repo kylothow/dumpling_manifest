@@ -2,7 +2,7 @@
 <manifest>
 
  <!--Patcher (run "./patcher/patcher.sh" before each compilation)-->
-  <project name="kerneltoast/patcher" path="patcher" revision="cm-14.1-dumpling" />
+  <project name="kylothow/patcher" path="patcher" revision="cm-14.1-dumpling" />
 
  <!--Repositories to replace-->
   <remove-project name="LineageOS/android_packages_apps_Gallery2" />
